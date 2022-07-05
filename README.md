@@ -1,2 +1,6 @@
-# HTML-Application
-Repository for HTML Application. Created By harun.
+# HTML Application at Browser
+
+## About
+Name: [Template] HTML Easy Application
+Create: harun.
+Publish: True
